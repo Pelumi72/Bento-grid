@@ -14,13 +14,13 @@ p {
 }
 
 .description {
-  margin: 1.5rem 0.75rem;
+  margin: 1rem 0.25rem;
 }
 
 .rating {
   background-color: hsl(256, 67%, 59%);
   text-align: center;
-  padding: 1rem;
+  padding: 0.5rem 1.25rem 1rem;
   border-radius: 10px;
 }
 
@@ -34,7 +34,7 @@ p {
 
 .schedule-timeline {
   background-color: hsl(39, 100%, 71%);
-  padding: 1rem;
+  padding: 0.5rem 1.25rem 1rem;
   border-radius: 10px;
   height: 15rem;
   overflow: hidden;
