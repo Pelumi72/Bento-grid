@@ -43,7 +43,7 @@ p {
 .posting-schedule {
   background-color: hsl(254, 88%, 90%);
   text-align: center;
-  padding: 1.75rem 0.75rem 1rem;
+  padding: 1rem 0.75rem 1rem;
   border-radius: 10px;
 }
 
@@ -89,7 +89,6 @@ p {
 
 .post-schedule-img {
   width: 285px;
-  margin: 1.5rem 0;
 }
 
 .followers-img {
